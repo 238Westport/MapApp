@@ -30,11 +30,11 @@
         {
             "id": 3,
             "name": "Discovery",
-            "image": "http://api.androidhive.info/feed/img/discovery_mos.jpg",
+            "image": null,
             "status": "A team of Austrian scientists has developed a laser system that causes fruit flies to dance.",
-            "profilePic": "http://api.androidhive.info/feed/img/discovery.jpg",
+            "profilePic": "https://scontent-dfw1-1.xx.fbcdn.net/v/t1.0-9/11219135_10206850207392578_1068185655841801989_n.jpg?oh=c55aa577671319fafe0454ce69994631&oe=57D34705",
             "timeStamp": "1403375851930",
-            "url": "http://dsc.tv/xmMxD"
+            "url": null
         },
         {
             "id": 4,
